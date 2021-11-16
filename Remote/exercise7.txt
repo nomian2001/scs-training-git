@@ -1,0 +1,6 @@
+git clone 
+git fakeTeamwork main 1
+git commit
+git fetch
+git rebase o/main
+git push 
