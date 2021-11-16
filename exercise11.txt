@@ -1,4 +1,4 @@
-git rebase -i caption~2
+git checkout main
+git cherry-pick C2
 git commit --amend
-git rebase -i caption~2
-git branch -f main caption
+git cherry-pick C3
