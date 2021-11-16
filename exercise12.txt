@@ -1,0 +1,4 @@
+git checkout C1
+git tag v0 C1
+git checkout C2
+git tag v1 C2
