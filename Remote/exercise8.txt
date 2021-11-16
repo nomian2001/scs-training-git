@@ -1,0 +1,4 @@
+git reset --hard o/main
+git checkout -b feature
+git branch -f feature C2 
+git push origin feature
